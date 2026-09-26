@@ -1,6 +1,6 @@
 # Depression Tendency in Twitter Users
 
-An NLP project that classifies tweets as suggestive or not suggestive of depression, and extends that signal to estimate the depression tendency of individual Twitter users. Full methodology and results are in `ProjectReport.pdf`.
+An NLP project that classifies tweets as suggestive or not suggestive of depression, and extends that signal to estimate the depression tendency of individual Twitter users. Full methodology and results are in `NLP_Project_Proposal_Final.pdf`.
 
 ## Notebooks
 
